@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+MySQL;Backend+APIs+%26+Responsive+UI;IoT+Project+Developer)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsonimits)](https://github.com/tusharsonimits/github-readme-stats)
 # Hi 👋 I'm Tushar Soni
 
 ## 🚀 About Me
