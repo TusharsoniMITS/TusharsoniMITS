@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+MySQL;Backend+APIs+%26+Responsive+UI;IoT+Project+Developer)](https://git.io/typing-svg)
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharsoniMITS&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharsoniMITS&layout=compact&theme=radical)
-
 # Hi 👋 I'm Tushar Soni
 
 ## 🚀 About Me
 Full Stack Developer passionate about building MERN stack applications and IoT-based solutions.
+
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharsoniMITS&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharsoniMITS&layout=compact&theme=radical)
 
 ---
 
