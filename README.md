@@ -6,7 +6,6 @@
 Full Stack Developer passionate about building MERN stack applications and IoT-based solutions.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TusharsoniMITS&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TusharsoniMITS&layout=compact&theme=tokyonight)
 
 ---
