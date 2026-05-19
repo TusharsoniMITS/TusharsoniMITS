@@ -44,5 +44,5 @@ IoT-based smart home automation using Arduino and Bluetooth module.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://linkedin.com/in/tusharsoni628
+- Email: Tusharsonigwl05@gmail.com
