@@ -5,10 +5,8 @@
 ## 🚀 About Me
 Full Stack Developer passionate about building MERN stack applications and IoT-based solutions.
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharsoniMITS&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharsoniMITS&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharsoniMITS&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharsoniMITS&layout=compact&theme=tokyonight)
 ---
 
 ## 💻 Tech Stack
